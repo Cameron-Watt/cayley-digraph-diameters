@@ -1,2 +1,12 @@
-# cayley-digraph-diameters
-This code was used to compute the higher order diameters of Cayley digraphs on the cyclic group of order 7 for the paper "Measures of information spread in digraphs."
+# Cayley Digraph Diameters
+
+Code accompanying the paper "Measures of information spread in digraphs" 
+by Gregory C Magda, Jonathan Rubin, Sabrina Streipert,
+Cameron Watt, Abhiram Kumar (University of Pittsburgh).
+
+## Usage
+Run `compute_table1.py` to reproduce Table 1 from the paper.
+
+## Requirements
+Install dependencies with:
+pip install -r requirements.txt
